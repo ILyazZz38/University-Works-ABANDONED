@@ -1,0 +1,10 @@
+E:\ВУЗ\2 курс\ООП\DynamicSotrudForm\DynamicSotrudForm\bin\Debug\DynamicSotrudForm.exe.config
+E:\ВУЗ\2 курс\ООП\DynamicSotrudForm\DynamicSotrudForm\bin\Debug\DynamicSotrudForm.exe
+E:\ВУЗ\2 курс\ООП\DynamicSotrudForm\DynamicSotrudForm\bin\Debug\DynamicSotrudForm.pdb
+E:\ВУЗ\2 курс\ООП\DynamicSotrudForm\DynamicSotrudForm\obj\Debug\DynamicSotrudForm.csprojAssemblyReference.cache
+E:\ВУЗ\2 курс\ООП\DynamicSotrudForm\DynamicSotrudForm\obj\Debug\DynamicSotrudForm.Form1.resources
+E:\ВУЗ\2 курс\ООП\DynamicSotrudForm\DynamicSotrudForm\obj\Debug\DynamicSotrudForm.Properties.Resources.resources
+E:\ВУЗ\2 курс\ООП\DynamicSotrudForm\DynamicSotrudForm\obj\Debug\DynamicSotrudForm.csproj.GenerateResource.cache
+E:\ВУЗ\2 курс\ООП\DynamicSotrudForm\DynamicSotrudForm\obj\Debug\DynamicSotrudForm.csproj.CoreCompileInputs.cache
+E:\ВУЗ\2 курс\ООП\DynamicSotrudForm\DynamicSotrudForm\obj\Debug\DynamicSotrudForm.exe
+E:\ВУЗ\2 курс\ООП\DynamicSotrudForm\DynamicSotrudForm\obj\Debug\DynamicSotrudForm.pdb

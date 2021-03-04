@@ -1,0 +1,7 @@
+E:\ВУЗ\2 курс\АОД\Tree\tree\tree\bin\Debug\tree.exe.config
+E:\ВУЗ\2 курс\АОД\Tree\tree\tree\bin\Debug\tree.exe
+E:\ВУЗ\2 курс\АОД\Tree\tree\tree\bin\Debug\tree.pdb
+E:\ВУЗ\2 курс\АОД\Tree\tree\tree\obj\Debug\tree.csprojAssemblyReference.cache
+E:\ВУЗ\2 курс\АОД\Tree\tree\tree\obj\Debug\tree.csproj.CoreCompileInputs.cache
+E:\ВУЗ\2 курс\АОД\Tree\tree\tree\obj\Debug\tree.exe
+E:\ВУЗ\2 курс\АОД\Tree\tree\tree\obj\Debug\tree.pdb

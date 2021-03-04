@@ -1,0 +1,10 @@
+E:\ВУЗ\2 курс\ООП\Organisation2.0\Organisation2.0\bin\Debug\Organisation2.0.exe.config
+E:\ВУЗ\2 курс\ООП\Organisation2.0\Organisation2.0\bin\Debug\Organisation2.0.exe
+E:\ВУЗ\2 курс\ООП\Organisation2.0\Organisation2.0\bin\Debug\Organisation2.0.pdb
+E:\ВУЗ\2 курс\ООП\Organisation2.0\Organisation2.0\obj\Debug\Organisation2.0.csprojAssemblyReference.cache
+E:\ВУЗ\2 курс\ООП\Organisation2.0\Organisation2.0\obj\Debug\Organisation2._0.Form1.resources
+E:\ВУЗ\2 курс\ООП\Organisation2.0\Organisation2.0\obj\Debug\Organisation2._0.Properties.Resources.resources
+E:\ВУЗ\2 курс\ООП\Organisation2.0\Organisation2.0\obj\Debug\Organisation2.0.csproj.GenerateResource.cache
+E:\ВУЗ\2 курс\ООП\Organisation2.0\Organisation2.0\obj\Debug\Organisation2.0.csproj.CoreCompileInputs.cache
+E:\ВУЗ\2 курс\ООП\Organisation2.0\Organisation2.0\obj\Debug\Organisation2.0.exe
+E:\ВУЗ\2 курс\ООП\Organisation2.0\Organisation2.0\obj\Debug\Organisation2.0.pdb

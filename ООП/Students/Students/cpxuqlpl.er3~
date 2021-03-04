@@ -1,0 +1,107 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Students
+{
+    class Student
+    {
+
+
+        
+        public string FirstName;
+        public string Name;
+        public string FatherName;
+        public double markProgram = 0;
+        public double markSport = 0;
+        public double markMath = 0;
+
+
+        public void addStud(string fam, string name, string fath)
+        {
+                FirstName = fam;
+                Name = name;
+                FatherName = fath;
+        }
+
+        public void addMark(double mM, double m)
+        {
+
+            switch (mM)
+            {
+                case 1:
+
+                    markProgram = m;
+                   break;
+                case 2:
+                    markMath = m;
+                    break;
+                case 3:
+                    markMath = m;
+                    break;
+            }
+        }
+
+        public void changeMark(double menu, double mark)
+        {
+ 
+            switch (menu)
+            {
+                case 1:
+
+                    markProgram = mark;
+                    break;
+
+                case 2:
+
+                        markMath = mark;
+                    break;
+
+                case 3:
+
+                        markSport = mark;
+                    break;
+            }
+
+        }
+
+        public double requestMark(int reqMarkMenu)
+        {
+            double x = 0;
+            switch (reqMarkMenu)
+            {
+                case 1:
+                        return markProgram;
+
+
+                case 2:
+                    return markMath;
+
+
+                case 3:
+                    return markSport;
+                default:
+                    return x;
+
+
+            }
+        }
+
+        public double averageMark(double k)
+        {
+            double aver;
+            aver = (markMath + markProgram + markSport)/k;
+            return aver;
+        }
+        public string infoStudent(double k)
+        {
+                string info;
+            info = "Иформация о студенте \n  \nФИО: " + FirstName + " " + Name + " " + FatherName + "\n \nОценки студента\nПрограммирование: " + markProgram + "\nМатематика: " + markMath + "\nФиз.Культура: " + markSport + "\n\nСредний балл: " +  averageMark(k);
+            return info;
+
+        }
+
+    }
+}

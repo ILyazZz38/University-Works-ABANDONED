@@ -1,0 +1,14 @@
+E:\ВУЗ\2 курс\ООП\SotrudForm\SotrudForm\bin\Debug\SotrudForm.exe.config
+E:\ВУЗ\2 курс\ООП\SotrudForm\SotrudForm\bin\Debug\SotrudForm.exe
+E:\ВУЗ\2 курс\ООП\SotrudForm\SotrudForm\bin\Debug\SotrudForm.pdb
+E:\ВУЗ\2 курс\ООП\SotrudForm\SotrudForm\obj\Debug\SotrudForm.csprojAssemblyReference.cache
+E:\ВУЗ\2 курс\ООП\SotrudForm\SotrudForm\obj\Debug\SotrudForm.addWorker.resources
+E:\ВУЗ\2 курс\ООП\SotrudForm\SotrudForm\obj\Debug\SotrudForm.Cash.resources
+E:\ВУЗ\2 курс\ООП\SotrudForm\SotrudForm\obj\Debug\SotrudForm.changeCash.resources
+E:\ВУЗ\2 курс\ООП\SotrudForm\SotrudForm\obj\Debug\SotrudForm.Form1.resources
+E:\ВУЗ\2 курс\ООП\SotrudForm\SotrudForm\obj\Debug\SotrudForm.Properties.Resources.resources
+E:\ВУЗ\2 курс\ООП\SotrudForm\SotrudForm\obj\Debug\SotrudForm.requestCash.resources
+E:\ВУЗ\2 курс\ООП\SotrudForm\SotrudForm\obj\Debug\SotrudForm.csproj.GenerateResource.cache
+E:\ВУЗ\2 курс\ООП\SotrudForm\SotrudForm\obj\Debug\SotrudForm.csproj.CoreCompileInputs.cache
+E:\ВУЗ\2 курс\ООП\SotrudForm\SotrudForm\obj\Debug\SotrudForm.exe
+E:\ВУЗ\2 курс\ООП\SotrudForm\SotrudForm\obj\Debug\SotrudForm.pdb

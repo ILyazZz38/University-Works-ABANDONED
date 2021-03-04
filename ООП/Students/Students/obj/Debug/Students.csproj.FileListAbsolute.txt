@@ -1,0 +1,14 @@
+E:\ВУЗ\2 курс\ООП\Students\Students\bin\Debug\Students.exe.config
+E:\ВУЗ\2 курс\ООП\Students\Students\bin\Debug\Students.exe
+E:\ВУЗ\2 курс\ООП\Students\Students\bin\Debug\Students.pdb
+E:\ВУЗ\2 курс\ООП\Students\Students\obj\Debug\Students.csprojAssemblyReference.cache
+E:\ВУЗ\2 курс\ООП\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+E:\ВУЗ\2 курс\ООП\Students\Students\obj\Debug\Students.exe
+E:\ВУЗ\2 курс\ООП\Students\Students\obj\Debug\Students.pdb
+F:\ВУЗ\2 курс\ООП\Students\Students\bin\Debug\Students.exe.config
+F:\ВУЗ\2 курс\ООП\Students\Students\bin\Debug\Students.exe
+F:\ВУЗ\2 курс\ООП\Students\Students\bin\Debug\Students.pdb
+F:\ВУЗ\2 курс\ООП\Students\Students\obj\Debug\Students.csprojAssemblyReference.cache
+F:\ВУЗ\2 курс\ООП\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+F:\ВУЗ\2 курс\ООП\Students\Students\obj\Debug\Students.exe
+F:\ВУЗ\2 курс\ООП\Students\Students\obj\Debug\Students.pdb

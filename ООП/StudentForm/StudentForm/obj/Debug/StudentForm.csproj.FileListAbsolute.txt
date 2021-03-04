@@ -1,0 +1,16 @@
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\bin\Debug\StudentForm.exe.config
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\bin\Debug\StudentForm.exe
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\bin\Debug\StudentForm.pdb
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\obj\Debug\StudentForm.csprojAssemblyReference.cache
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\obj\Debug\StudentForm.AddMark.resources
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\obj\Debug\StudentForm.AddStud.resources
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\obj\Debug\StudentForm.ChangMark.resources
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\obj\Debug\StudentForm.Info.resources
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\obj\Debug\StudentForm.ISU.resources
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\obj\Debug\StudentForm.Properties.Resources.resources
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\obj\Debug\StudentForm.RequestMark.resources
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.GenerateResource.cache
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.CoreCompileInputs.cache
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\obj\Debug\StudentForm.exe
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\obj\Debug\StudentForm.pdb
+E:\ВУЗ\2 курс\ООП\StudentForm\StudentForm\obj\Debug\StudentForm.AverageMark.resources

@@ -1,0 +1,7 @@
+E:\ВУЗ\2 курс\АОД\HashTextFirstConflict\HashTextFirstConflict\bin\Debug\HashTextFirstConflict.exe.config
+E:\ВУЗ\2 курс\АОД\HashTextFirstConflict\HashTextFirstConflict\bin\Debug\HashTextFirstConflict.exe
+E:\ВУЗ\2 курс\АОД\HashTextFirstConflict\HashTextFirstConflict\bin\Debug\HashTextFirstConflict.pdb
+E:\ВУЗ\2 курс\АОД\HashTextFirstConflict\HashTextFirstConflict\obj\Debug\HashTextFirstConflict.csprojAssemblyReference.cache
+E:\ВУЗ\2 курс\АОД\HashTextFirstConflict\HashTextFirstConflict\obj\Debug\HashTextFirstConflict.csproj.CoreCompileInputs.cache
+E:\ВУЗ\2 курс\АОД\HashTextFirstConflict\HashTextFirstConflict\obj\Debug\HashTextFirstConflict.exe
+E:\ВУЗ\2 курс\АОД\HashTextFirstConflict\HashTextFirstConflict\obj\Debug\HashTextFirstConflict.pdb

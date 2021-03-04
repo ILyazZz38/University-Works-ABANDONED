@@ -1,0 +1,10 @@
+E:\ВУЗ\2 курс\ООП\Figure\Figure\bin\Debug\Figure.exe.config
+E:\ВУЗ\2 курс\ООП\Figure\Figure\bin\Debug\Figure.exe
+E:\ВУЗ\2 курс\ООП\Figure\Figure\bin\Debug\Figure.pdb
+E:\ВУЗ\2 курс\ООП\Figure\Figure\obj\Debug\Figure.csprojAssemblyReference.cache
+E:\ВУЗ\2 курс\ООП\Figure\Figure\obj\Debug\Figure.Form1.resources
+E:\ВУЗ\2 курс\ООП\Figure\Figure\obj\Debug\Figure.Properties.Resources.resources
+E:\ВУЗ\2 курс\ООП\Figure\Figure\obj\Debug\Figure.csproj.GenerateResource.cache
+E:\ВУЗ\2 курс\ООП\Figure\Figure\obj\Debug\Figure.csproj.CoreCompileInputs.cache
+E:\ВУЗ\2 курс\ООП\Figure\Figure\obj\Debug\Figure.exe
+E:\ВУЗ\2 курс\ООП\Figure\Figure\obj\Debug\Figure.pdb

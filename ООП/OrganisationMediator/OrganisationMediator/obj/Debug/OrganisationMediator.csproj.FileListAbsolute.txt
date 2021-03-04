@@ -1,0 +1,10 @@
+E:\ВУЗ\2 курс\ООП\OrganisationMediator\OrganisationMediator\bin\Debug\OrganisationMediator.exe.config
+E:\ВУЗ\2 курс\ООП\OrganisationMediator\OrganisationMediator\bin\Debug\OrganisationMediator.exe
+E:\ВУЗ\2 курс\ООП\OrganisationMediator\OrganisationMediator\bin\Debug\OrganisationMediator.pdb
+E:\ВУЗ\2 курс\ООП\OrganisationMediator\OrganisationMediator\obj\Debug\OrganisationMediator.csprojAssemblyReference.cache
+E:\ВУЗ\2 курс\ООП\OrganisationMediator\OrganisationMediator\obj\Debug\OrganisationMediator.Form1.resources
+E:\ВУЗ\2 курс\ООП\OrganisationMediator\OrganisationMediator\obj\Debug\OrganisationMediator.Properties.Resources.resources
+E:\ВУЗ\2 курс\ООП\OrganisationMediator\OrganisationMediator\obj\Debug\OrganisationMediator.csproj.GenerateResource.cache
+E:\ВУЗ\2 курс\ООП\OrganisationMediator\OrganisationMediator\obj\Debug\OrganisationMediator.csproj.CoreCompileInputs.cache
+E:\ВУЗ\2 курс\ООП\OrganisationMediator\OrganisationMediator\obj\Debug\OrganisationMediator.exe
+E:\ВУЗ\2 курс\ООП\OrganisationMediator\OrganisationMediator\obj\Debug\OrganisationMediator.pdb

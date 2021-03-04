@@ -1,0 +1,10 @@
+E:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\bin\Debug\StudentsSuccessor.exe.config
+E:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\bin\Debug\StudentsSuccessor.exe
+E:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\bin\Debug\StudentsSuccessor.pdb
+E:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.csprojAssemblyReference.cache
+E:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.Form1.resources
+E:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.Properties.Resources.resources
+E:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.csproj.GenerateResource.cache
+E:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.csproj.CoreCompileInputs.cache
+E:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.exe
+E:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.pdb
