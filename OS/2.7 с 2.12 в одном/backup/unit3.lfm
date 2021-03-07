@@ -1,0 +1,50 @@
+object FPassword: TFPassword
+  Left = 624
+  Height = 128
+  Top = 667
+  Width = 400
+  BorderIcons = [biMinimize, biMaximize]
+  BorderStyle = bsDialog
+  Caption = 'Password'
+  ClientHeight = 128
+  ClientWidth = 400
+  DesignTimePPI = 120
+  OnKeyDown = FormKeyDown
+  Position = poScreenCenter
+  LCLVersion = '2.0.10.0'
+  object Label1: TLabel
+    Left = 24
+    Height = 20
+    Top = 32
+    Width = 63
+    Caption = 'password'
+    ParentColor = False
+  end
+  object Edit1: TEdit
+    Left = 104
+    Height = 28
+    Top = 32
+    Width = 252
+    EchoMode = emPassword
+    PasswordChar = '*'
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 56
+    Height = 31
+    Top = 80
+    Width = 94
+    Caption = 'Done'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 248
+    Height = 31
+    Top = 80
+    Width = 94
+    Caption = 'Close'
+    OnClick = Button2Click
+    TabOrder = 2
+  end
+end

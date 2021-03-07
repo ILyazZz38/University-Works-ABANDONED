@@ -1,0 +1,128 @@
+object Form1: TForm1
+  Left = 381
+  Height = 222
+  Top = 268
+  Width = 568
+  Caption = 'Calculator'
+  ClientHeight = 222
+  ClientWidth = 568
+  DesignTimePPI = 120
+  OnCreate = FormCreate
+  OnShow = FormShow
+  Position = poScreenCenter
+  LCLVersion = '2.0.10.0'
+  object Button1: TButton
+    Left = 48
+    Height = 31
+    Top = 80
+    Width = 94
+    Caption = 'decide'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 48
+    Height = 31
+    Top = 128
+    Width = 94
+    Caption = 'close'
+    OnClick = Button2Click
+    TabOrder = 1
+  end
+  object Edit1: TEdit
+    Left = 48
+    Height = 28
+    Top = 32
+    Width = 100
+    OnChange = Edit1Change
+    OnUTF8KeyPress = Edit1UTF8KeyPress
+    TabOrder = 2
+    Text = 'A'
+  end
+  object Edit2: TEdit
+    Left = 224
+    Height = 28
+    Top = 32
+    Width = 100
+    OnChange = Edit2Change
+    TabOrder = 3
+    Text = 'B'
+  end
+  object Edit3: TEdit
+    Left = 384
+    Height = 28
+    Top = 32
+    Width = 100
+    OnChange = Edit3Change
+    TabOrder = 4
+    Text = 'C'
+  end
+  object Edit4: TEdit
+    Left = 426
+    Height = 28
+    Top = 128
+    Width = 100
+    TabOrder = 5
+  end
+  object Edit5: TEdit
+    Left = 426
+    Height = 28
+    Top = 176
+    Width = 100
+    TabOrder = 6
+  end
+  object Label1: TLabel
+    Left = 168
+    Height = 20
+    Top = 32
+    Width = 41
+    Caption = 'X^2 +'
+    ParentColor = False
+    OnClick = Label1Click
+  end
+  object Label2: TLabel
+    Left = 344
+    Height = 20
+    Top = 32
+    Width = 23
+    Caption = 'X +'
+    ParentColor = False
+    OnClick = Label1Click
+  end
+  object Label3: TLabel
+    Left = 504
+    Height = 20
+    Top = 32
+    Width = 22
+    Caption = '= 0'
+    ParentColor = False
+    OnClick = Label1Click
+  end
+  object Label4: TLabel
+    Left = 376
+    Height = 20
+    Top = 128
+    Width = 31
+    Caption = 'X1 ='
+    ParentColor = False
+    OnClick = Label1Click
+  end
+  object Label5: TLabel
+    Left = 376
+    Height = 20
+    Top = 176
+    Width = 31
+    Caption = 'X2 ='
+    ParentColor = False
+    OnClick = Label1Click
+  end
+  object Button3: TButton
+    Left = 48
+    Height = 31
+    Top = 176
+    Width = 94
+    Caption = 'info!'
+    OnClick = Button3Click
+    TabOrder = 7
+  end
+end
