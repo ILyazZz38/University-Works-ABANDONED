@@ -7,7 +7,7 @@ using System.Drawing;
 
 namespace Figure
 {
-    abstract class figure
+    public abstract class figure
     {
         protected static int x, y;
         public figure(int ax, int ay) { x = ax; y = ay; }
@@ -21,12 +21,14 @@ namespace Figure
         public abstract void Show();
         public void MoveTo(int ax, int ay)
         {
-
+            Show();
+            setxy(ax, ay);
+            Show();
         }
         public abstract double Area();
     }
 
-     class circle : figure
+     public class circle : figure
     {
         protected static int r;
         public circle(int ax, int ay, int ar) : base(x , y) { circle circle = this; circle.x = ax; circle.y = ay; r = ar; }
@@ -35,34 +37,23 @@ namespace Figure
             r = ar;
         }
 
-        public static void paint(float h, float w)
-        {
-            using (Graphics g = Graphics.FromImage(Form1.bmp))
-            {
-                g.Clear(Color.White);
-                g.DrawEllipse(Pens.Red, x, y, h, w);
-            }
-        }
-
-        public static void move(int ax, int ay, float h, float w)
-        {
-            paint(h, w);
-            setxy(ax, ay);
-            paint(h, w);
-        }
         public static float getrad()
         {
             return r;
         }
         public override void Show()
         {
-            
+            using (Graphics g = Graphics.FromImage(Form1.bmp))
+            {
+                g.Clear(Color.White);
+                g.DrawEllipse(Pens.Red, x, y, getrad(), getrad());
+            }
         }
 
         public override double Area() { return 3.14 * r * r; }
     } 
 
-    class square : figure
+    public class square : figure
     {
         protected static int a;
         public square(int ax, int ay, int aa) : base(x, y) { square square = this; square.x = ax; square.y = ay; a = aa; }
@@ -74,29 +65,19 @@ namespace Figure
         {
             return a;
         }
-        public static void paint(int h, int w)
+        public override void Show()
         {
             using (Graphics g = Graphics.FromImage(Form1.bmp))
             {
                 g.Clear(Color.White);
-                g.DrawRectangle(Pens.Red, x, y, h, w);
+                g.DrawRectangle(Pens.Red, x, y, geta(), geta());
             }
-        }
-        public static void move(int ax, int ay, int h, int w)
-        {
-            paint(h, w);
-            setxy(ax, ay);
-            paint(h, w);
-        }
-        public override void Show()
-        {
-
         }
 
         public override double Area() { return a * a; }
     }
 
-    class ellipse : circle
+    public class ellipse : circle
     {
         private static int r2;
         public ellipse(int ax, int ay, int ar, int ar2) : base(x, y, r) { ellipse ellipse = this; ellipse.x = ax; ellipse.y = ay; ellipse.r = ar; r2 = ar2; }
@@ -110,7 +91,11 @@ namespace Figure
         }
         public override void Show()
         {
-
+            using (Graphics g = Graphics.FromImage(Form1.bmp))
+            {
+                g.Clear(Color.White);
+                g.DrawEllipse(Pens.Red, x, y, getrad(), getrad2());
+            }
         }
         public void Rotate90()
         {
@@ -119,7 +104,7 @@ namespace Figure
         public override double Area() { return 3.14 * r * r2; }
     }
 
-    class rect : square
+    public class rect : square
     {
         private static int b;
         public rect(int ax, int ay, int aA, int aB) : base(x, y, a){ rect rect = this; rect.x = ax; rect.y = ay; rect.a = aA; b = aB; }
@@ -133,7 +118,11 @@ namespace Figure
         }
         public override void Show()
         {
-
+            using (Graphics g = Graphics.FromImage(Form1.bmp))
+            {
+                g.Clear(Color.White);
+                g.DrawRectangle(Pens.Red, x, y, geta(), GetB());
+            }
         }
         public override double Area() { return a * b; }
     }

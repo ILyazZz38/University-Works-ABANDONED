@@ -5,3 +5,10 @@ E:\ВУЗ\2 курс\АОД\HashCep\HashCep\obj\Debug\HashCep.csprojAssemblyRefe
 E:\ВУЗ\2 курс\АОД\HashCep\HashCep\obj\Debug\HashCep.csproj.CoreCompileInputs.cache
 E:\ВУЗ\2 курс\АОД\HashCep\HashCep\obj\Debug\HashCep.exe
 E:\ВУЗ\2 курс\АОД\HashCep\HashCep\obj\Debug\HashCep.pdb
+F:\ВУЗ\2 курс\АОД\HashCep\HashCep\bin\Debug\HashCep.exe.config
+F:\ВУЗ\2 курс\АОД\HashCep\HashCep\bin\Debug\HashCep.exe
+F:\ВУЗ\2 курс\АОД\HashCep\HashCep\bin\Debug\HashCep.pdb
+F:\ВУЗ\2 курс\АОД\HashCep\HashCep\obj\Debug\HashCep.csprojAssemblyReference.cache
+F:\ВУЗ\2 курс\АОД\HashCep\HashCep\obj\Debug\HashCep.csproj.CoreCompileInputs.cache
+F:\ВУЗ\2 курс\АОД\HashCep\HashCep\obj\Debug\HashCep.exe
+F:\ВУЗ\2 курс\АОД\HashCep\HashCep\obj\Debug\HashCep.pdb

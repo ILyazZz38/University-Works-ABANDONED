@@ -20,8 +20,14 @@ namespace Figure
             button1.Click += Button1_Click;
         }
 
+        public static circle Circle = new circle(100, 100, 50);
+        public static ellipse Ellipse = new ellipse(100, 100, 50, 50);
+        public static square Square = new square(100, 100, 50);
+        public static rect Rect = new rect(100, 100, 50, 50);
+
         private void Form1_Load(object sender, EventArgs e)
         {
+            
             comboBox1.Items.Add("Квадрат");
             comboBox1.Items.Add("Круг");
             comboBox1.Items.Add("Прямоугольник");
@@ -32,17 +38,17 @@ namespace Figure
         {
             if (comboBox1.GetItemText(comboBox1.SelectedItem) == "Квадрат")
             {
-                square.move(Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text), square.geta(), square.geta());
+                Square.MoveTo(Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text));
             }
             else if (comboBox1.GetItemText(comboBox1.SelectedItem) == "Круг")
             {
-                circle.move(Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text), circle.getrad(), circle.getrad());
+                Circle.MoveTo(Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text));
             } else if (comboBox1.GetItemText(comboBox1.SelectedItem) == "Элипс")
             {
-                ellipse.move(Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text), ellipse.getrad(), ellipse.getrad2());
+                Ellipse.MoveTo(Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text));
             } else if (comboBox1.GetItemText(comboBox1.SelectedItem) == "Прямоугольник")
             {
-                rect.move(Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text), rect.geta(), rect.GetB());
+                Rect.MoveTo(Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text));
             }
             pictureBox1.Image = bmp;
         }
@@ -53,24 +59,24 @@ namespace Figure
             {
                 square.setxy(Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text));
                 square.seta(Convert.ToInt32(textBox2.Text));
-                square.paint(square.geta(), square.geta());
+                Square.Show();
             } else if (comboBox1.GetItemText(comboBox1.SelectedItem) == "Круг")
             {
                 circle.setxy(Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text));
                 circle.setrad(Convert.ToInt32(textBox3.Text));
-                circle.paint(circle.getrad(), circle.getrad());
+                Circle.Show();
             } else if (comboBox1.GetItemText(comboBox1.SelectedItem) == "Элипс")
             {
                 ellipse.setxy(Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text));
                 ellipse.setrad(Convert.ToInt32(textBox3.Text));
                 ellipse.setrad2(Convert.ToInt32(textBox4.Text));
-                ellipse.paint(ellipse.getrad(), ellipse.getrad2());
+                Ellipse.Show();
             } else if (comboBox1.GetItemText(comboBox1.SelectedItem) == "Прямоугольник")
             {
                 rect.setxy(Convert.ToInt32(textBox5.Text), Convert.ToInt32(textBox6.Text));
                 rect.seta(Convert.ToInt32(textBox2.Text));
                 rect.SetB(Convert.ToInt32(textBox1.Text));
-                rect.paint(rect.geta(), rect.GetB());
+                Rect.Show();
             }
             pictureBox1.Image = bmp;
         }
