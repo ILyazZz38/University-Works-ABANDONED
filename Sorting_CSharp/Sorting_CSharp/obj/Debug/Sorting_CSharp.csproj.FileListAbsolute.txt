@@ -1,0 +1,7 @@
+F:\ВУЗ\Практика\Sorting_CSharp\Sorting_CSharp\bin\Debug\Sorting_CSharp.exe.config
+F:\ВУЗ\Практика\Sorting_CSharp\Sorting_CSharp\bin\Debug\Sorting_CSharp.exe
+F:\ВУЗ\Практика\Sorting_CSharp\Sorting_CSharp\bin\Debug\Sorting_CSharp.pdb
+F:\ВУЗ\Практика\Sorting_CSharp\Sorting_CSharp\obj\Debug\Sorting_CSharp.csprojAssemblyReference.cache
+F:\ВУЗ\Практика\Sorting_CSharp\Sorting_CSharp\obj\Debug\Sorting_CSharp.csproj.CoreCompileInputs.cache
+F:\ВУЗ\Практика\Sorting_CSharp\Sorting_CSharp\obj\Debug\Sorting_CSharp.exe
+F:\ВУЗ\Практика\Sorting_CSharp\Sorting_CSharp\obj\Debug\Sorting_CSharp.pdb

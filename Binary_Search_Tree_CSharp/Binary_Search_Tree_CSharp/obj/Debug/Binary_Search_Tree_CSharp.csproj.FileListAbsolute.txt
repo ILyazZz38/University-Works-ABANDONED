@@ -1,0 +1,7 @@
+F:\ВУЗ\Практика\Binary_Search_Tree_CSharp\Binary_Search_Tree_CSharp\bin\Debug\Binary_Search_Tree_CSharp.exe.config
+F:\ВУЗ\Практика\Binary_Search_Tree_CSharp\Binary_Search_Tree_CSharp\bin\Debug\Binary_Search_Tree_CSharp.exe
+F:\ВУЗ\Практика\Binary_Search_Tree_CSharp\Binary_Search_Tree_CSharp\bin\Debug\Binary_Search_Tree_CSharp.pdb
+F:\ВУЗ\Практика\Binary_Search_Tree_CSharp\Binary_Search_Tree_CSharp\obj\Debug\Binary_Search_Tree_CSharp.csprojAssemblyReference.cache
+F:\ВУЗ\Практика\Binary_Search_Tree_CSharp\Binary_Search_Tree_CSharp\obj\Debug\Binary_Search_Tree_CSharp.csproj.CoreCompileInputs.cache
+F:\ВУЗ\Практика\Binary_Search_Tree_CSharp\Binary_Search_Tree_CSharp\obj\Debug\Binary_Search_Tree_CSharp.exe
+F:\ВУЗ\Практика\Binary_Search_Tree_CSharp\Binary_Search_Tree_CSharp\obj\Debug\Binary_Search_Tree_CSharp.pdb
