@@ -8,3 +8,13 @@ E:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\Studen
 E:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.csproj.CoreCompileInputs.cache
 E:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.exe
 E:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.pdb
+F:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\bin\Debug\StudentsSuccessor.exe.config
+F:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\bin\Debug\StudentsSuccessor.exe
+F:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\bin\Debug\StudentsSuccessor.pdb
+F:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.csprojAssemblyReference.cache
+F:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.Form1.resources
+F:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.Properties.Resources.resources
+F:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.csproj.GenerateResource.cache
+F:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.csproj.CoreCompileInputs.cache
+F:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.exe
+F:\ВУЗ\2 курс\ООП\StudentsSuccessor\StudentsSuccessor\obj\Debug\StudentsSuccessor.pdb

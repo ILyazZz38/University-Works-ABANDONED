@@ -1,0 +1,10 @@
+F:\ВУЗ\2 курс\ООП\StudentSuccessorList\StudentSuccessorList\bin\Debug\StudentSuccessorList.exe.config
+F:\ВУЗ\2 курс\ООП\StudentSuccessorList\StudentSuccessorList\bin\Debug\StudentSuccessorList.exe
+F:\ВУЗ\2 курс\ООП\StudentSuccessorList\StudentSuccessorList\bin\Debug\StudentSuccessorList.pdb
+F:\ВУЗ\2 курс\ООП\StudentSuccessorList\StudentSuccessorList\obj\Debug\StudentSuccessorList.csprojAssemblyReference.cache
+F:\ВУЗ\2 курс\ООП\StudentSuccessorList\StudentSuccessorList\obj\Debug\StudentSuccessorList.Form1.resources
+F:\ВУЗ\2 курс\ООП\StudentSuccessorList\StudentSuccessorList\obj\Debug\StudentSuccessorList.Properties.Resources.resources
+F:\ВУЗ\2 курс\ООП\StudentSuccessorList\StudentSuccessorList\obj\Debug\StudentSuccessorList.csproj.GenerateResource.cache
+F:\ВУЗ\2 курс\ООП\StudentSuccessorList\StudentSuccessorList\obj\Debug\StudentSuccessorList.csproj.CoreCompileInputs.cache
+F:\ВУЗ\2 курс\ООП\StudentSuccessorList\StudentSuccessorList\obj\Debug\StudentSuccessorList.exe
+F:\ВУЗ\2 курс\ООП\StudentSuccessorList\StudentSuccessorList\obj\Debug\StudentSuccessorList.pdb

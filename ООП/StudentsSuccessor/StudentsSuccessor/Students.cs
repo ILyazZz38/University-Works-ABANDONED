@@ -6,17 +6,71 @@ using System.Threading.Tasks;
 
 namespace StudentsSuccessor
 {
+    class StudentsArray
+    {
+        private static int count = 0;
+        private static Students[] students = new Students[10];
+        public static void needResize()
+        {
+            if (count == students.Length)
+                Array.Resize(ref students, students.Length + 5);
+        }
+        public static void addStudent(Students student)
+        {
+            for (int i = 0; i < students.Length;)
+            {
+                if (students[i] == null)
+                {
+                    students[i] = student;
+                    break;
+                }
+                else
+                    i++;
+            }
+        }
+        public static string getStudent(string StudFIO)
+        {
+            string result = "";
+            for (int i = 0; i < students.Length;)
+            {
+                if (students[i].fio == StudFIO)
+                {
+                    result =  students[i].getInfo();
+                    break;
+                }
+                else
+                    i++;
+            }
+            return result;
+        }
+        public static string getAllStudent()
+        {
+            string result = "";
+            for (int i = 0; i < students.Length;)
+            {
+                if (students[i] != null)
+                {
+                    result = result + students[i].getInfo() + "\n\n";
+                    i++;
+                }
+                else
+                    i++;
+            }
+            return result;
+        }
+    }
     class Students
     {
-        private static string FIO;
-        private static byte year;
+        protected string FIO;
+        protected byte year;
 
-        public static void addStud(string fio, byte x)
+        public string fio { get => FIO; }
+
+        public Students (string fio, byte addYear)
         {
             FIO = fio;
-            year = x;
+            year = addYear;
         }
-
         public virtual string getInfo()
         {
             return "Студент " + year + " курса.\n" + FIO;
@@ -26,10 +80,12 @@ namespace StudentsSuccessor
     class StateStudent : Students
     {
         private static int scholarship;
-
-        public static void addScholarship(int cash)
+        public StateStudent(string sFIO, byte sYear, int money) : base(sFIO, sYear)
         {
-            scholarship = cash;
+            StateStudent stateStudent = this;
+            stateStudent.FIO = sFIO;
+            stateStudent.year = sYear;
+            scholarship = money;
         }
 
         public override string getInfo()
@@ -38,15 +94,16 @@ namespace StudentsSuccessor
         }
     }
 
-    class paidStudent : Students
+    class PaidStudent : Students
     {
         private static int payment;
-
-        public static void addPayment(int cash)
+        public PaidStudent(string sFIO, byte sYear, int money) : base(sFIO, sYear)
         {
-            payment = cash;
+            PaidStudent stateStudent = this;
+            stateStudent.FIO = sFIO;
+            stateStudent.year = sYear;
+            payment = money;
         }
-
         public override string getInfo()
         {
             return base.getInfo() + "\nОплата студента: " + payment;

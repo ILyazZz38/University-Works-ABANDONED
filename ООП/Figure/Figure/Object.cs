@@ -46,7 +46,7 @@ namespace Figure
             using (Graphics g = Graphics.FromImage(Form1.bmp))
             {
                 g.Clear(Color.White);
-                g.DrawEllipse(Pens.Red, x, y, getrad(), getrad());
+                g.DrawEllipse(Pens.Aqua, x, y, getrad(), getrad());
             }
         }
 
@@ -70,7 +70,7 @@ namespace Figure
             using (Graphics g = Graphics.FromImage(Form1.bmp))
             {
                 g.Clear(Color.White);
-                g.DrawRectangle(Pens.Red, x, y, geta(), geta());
+                g.DrawRectangle(Pens.Aqua, x, y, geta(), geta());
             }
         }
 
@@ -94,7 +94,7 @@ namespace Figure
             using (Graphics g = Graphics.FromImage(Form1.bmp))
             {
                 g.Clear(Color.White);
-                g.DrawEllipse(Pens.Red, x, y, getrad(), getrad2());
+                g.DrawEllipse(Pens.Aqua, x, y, getrad(), getrad2());
             }
         }
         public void Rotate90()
@@ -121,7 +121,7 @@ namespace Figure
             using (Graphics g = Graphics.FromImage(Form1.bmp))
             {
                 g.Clear(Color.White);
-                g.DrawRectangle(Pens.Red, x, y, geta(), GetB());
+                g.DrawRectangle(Pens.Aqua, x, y, geta(), GetB());
             }
         }
         public override double Area() { return a * b; }

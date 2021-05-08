@@ -80,5 +80,10 @@ namespace Figure
             }
             pictureBox1.Image = bmp;
         }
+
+        private void PictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
