@@ -1,0 +1,7 @@
+F:\ВУЗ\2 курс\ООП\GenericClassQueue\GenericClassQueue\bin\Debug\GenericClassQueue.exe.config
+F:\ВУЗ\2 курс\ООП\GenericClassQueue\GenericClassQueue\bin\Debug\GenericClassQueue.exe
+F:\ВУЗ\2 курс\ООП\GenericClassQueue\GenericClassQueue\bin\Debug\GenericClassQueue.pdb
+F:\ВУЗ\2 курс\ООП\GenericClassQueue\GenericClassQueue\obj\Debug\GenericClassQueue.csprojAssemblyReference.cache
+F:\ВУЗ\2 курс\ООП\GenericClassQueue\GenericClassQueue\obj\Debug\GenericClassQueue.csproj.CoreCompileInputs.cache
+F:\ВУЗ\2 курс\ООП\GenericClassQueue\GenericClassQueue\obj\Debug\GenericClassQueue.exe
+F:\ВУЗ\2 курс\ООП\GenericClassQueue\GenericClassQueue\obj\Debug\GenericClassQueue.pdb
